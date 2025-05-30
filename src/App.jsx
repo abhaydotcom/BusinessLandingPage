@@ -1,9 +1,7 @@
-import React from 'react'
+import "./App.css"
 import Navbar from './componrnts/Navbar'
 import Hero from './componrnts/Hero'
 import CompanyLogo from './componrnts/CompanyLogo'
-
-import './app.css'
 import Purpose from './componrnts/Purpose'
 import Features from './componrnts/features'
 import Schedule from './componrnts/Schedule'
