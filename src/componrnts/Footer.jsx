@@ -34,9 +34,7 @@ const Footer = () => {
       variants={fadeIn('up', 0.2)}
       initial="hidden"
       whileInView="show"
-   
-      initial="hidden"
-      whileInView="show"
+     
       className="bg-gray-50"
     >
       <div className="section-container">
